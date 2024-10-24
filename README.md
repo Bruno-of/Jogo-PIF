@@ -1,7 +1,6 @@
 # Programação Imperativa e Funcional - 2024.2.
 Este repositório é destinado ao projeto da cadeira de Programação Imperativa e Funcional do 2º período de sistemas de informação no **CESAR School**.
 
-## Nossa equipe
 ## 🎮 Nome do jogo 
 > **Nota:** Aqui vai está o nome do jogo e uma breve descrição do jogo, incluindo as regras e como interagir com ele.
 
